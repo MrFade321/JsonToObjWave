@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1MKGAdK9iHLFgOsR7gTp6CwxsO0VDZtrUzFRtp9vq6gcxBD7xpQGcXe0MrVdMPrqR3OP7gaMPss8JBNwPPM8w==",
+  "success": true,
+  "projectFilePath": "E:\\JsonToObj\\JsonToObj\\JsonToObj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Fade\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
